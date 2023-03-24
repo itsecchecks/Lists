@@ -1,1 +1,2 @@
 wpad.osiris.net
+test.testy.com
